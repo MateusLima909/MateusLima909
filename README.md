@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá! Eu sou o Mateus Lima 👋</h1>
+<h1 align="center">Olá! Eu sou Mateus Lima 👋</h1>
 <p align="center">Um desenvolvedor Java apaixonado por aprender, construir soluções e colaborar em projetos de tecnologia.</p>
 
 ---

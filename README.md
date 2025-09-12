@@ -19,7 +19,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,php,java,spring,git,github,docker,mysql,postgres,idea&perline=4" />
+    <img src="https://skillicons.dev/icons?i=javascript,php,java,spring,git,github,docker,mysql,postgres,idea,html,css&perline=4" />
   </a>
 </p>
 

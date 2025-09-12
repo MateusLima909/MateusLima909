@@ -9,7 +9,7 @@
 - 🎓 Estou atualmente aprimorando minhas habilidades em Java e ecossistema Spring através da formação da DIO.
 - 🚀 Buscando minha primeira oportunidade profissional para aplicar meus conhecimentos e contribuir em um time de desenvolvimento.
 - 🌱 Tenho interesse em arquitetura de software, microsserviços e computação em nuvem.
-- 📫 Como entrar em contato comigo: [mateuslimasantos909@gmail.com](mailto:mateuslimasantos909@gmail.com)
+- 📫 Como entrar em contato comigo: [mateuslimasantos909@gmail.com](mateuslimasantos909@gmail.com)
 
 ---
 

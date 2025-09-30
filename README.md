@@ -1,6 +1,4 @@
-<h1>Construindo soluções a partir do zero.</h1>
-
-<h3>Onde a lógica encontra a inovação.</h3>
+<h3 >Desenvolvedor Back-end em Formação | Onde a lógica encontra a inovação.</h3>
 
 ---
 
@@ -12,6 +10,23 @@
 
 <p align="left">
   Atualmente, sou estudante de Sistemas de Informação e estou em constante evolução, focado em criar soluções que façam a diferença.
+</p>
+
+---
+
+### 👥Colaboração e Estatísticas no GitHub
+
+<p align="center">
+  <img src="https://activity-graph.vercel.app/graph?username=MateusLima909&theme=react-dark&hide_border=true" alt="Gráfico de Atividade de Contribuição" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MateusLima909&theme=dracula&card_width=430&card_height=10" alt="Estatísticas de Streak" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusLima909&layout=compact&langs_count=5&theme=dracula&card_width=430&card_height=100&line_height=40" alt="Top Linguagens" />
+  </a>
 </p>
 
 ---
@@ -55,24 +70,14 @@
 
 ### 🎯 Projetos que Contam a Minha História
 
-- **Sistema Bancário:** 🏦 Um projeto focado em **Programação Orientada a Objetos (POO)** em Java. Nele, apliquei conceitos essenciais como **encapsulamento**, **herança** e **polimorfismo**, construindo uma base sólida para todos os meus outros projetos.
-- **Aplicação Web em PHP:** 👨‍💻 Um projeto que me fez ir do zero ao domínio da arquitetura **MVC**. Aprimorei minhas habilidades em **segurança** (hashing de senhas), **modelagem de dados** e **resolução de problemas** em sistemas legados.
-- **Projeto de API RESTful (Em Andamento):** ⏳ Atualmente, estou construindo uma **API RESTful** completa com **Spring Boot** e **MongoDB** para consolidar meus conhecimentos em arquitetura e integração de sistemas. O projeto me permite aprender sobre **Docker** e **microsserviços**, aplicando conceitos avançados de infraestrutura e desenvolvimento.
-- **Sistema de Gerenciamento para Abrigo de Animais:** 🐶 Uma aplicação construída do zero em **JavaScript** com **Node.js**. O projeto me ensinou a criar **testes unitários com Jest** para garantir a qualidade do código e a lidar com lógica de negócio complexa.
-
----
-
-### 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MateusLima909&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusLima909&layout=compact&langs_count=8&theme=dracula"/>
-  </a>
+<p align="left">
+  Minha jornada em tecnologia começou de um jeito incomum: entrei na área com o desafio de aprender a programar do zero. Sou movido pela lógica e pela resolução de problemas, e meus projetos são a prova da minha resiliência.
 </p>
 
+- **Microsserviços com Java (Em Andamento):** ⏳ Atualmente, estou construindo uma solução com **Spring Boot** e **MongoDB**, consolidando conhecimentos de **microsserviços** e **Docker**.
+- **Aplicação Web em PHP:** 👨‍💻 Projeto que me fez dominar a arquitetura **MVC** e aplicar práticas de **segurança** (hashing de senhas) e **modelagem de dados** (functions/triggers).
+- **Sistema de Gerenciamento para Abrigo de Animais:** 🐶 Projeto em **JavaScript** com **Node.js** que aplicou **testes unitários com Jest** para garantir a qualidade do código.
+- **Sistema Bancário:** 🏦 Projeto que solidificou a minha base em **Programação Orientada a Objetos (POO)**.
 ---
 
 ### 🌱 Onde Estou na Minha Jornada
@@ -83,7 +88,9 @@
 
 <br>
 
-<p align="center">
+### 📫 Conecte-se Comigo
+
+<p>
   <a href="https://www.linkedin.com/in/mateuslima-santos">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>

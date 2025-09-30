@@ -71,13 +71,14 @@
 ### 🎯 Projetos que Contam a Minha História
 
 <p align="left">
-  Minha jornada em tecnologia começou de um jeito incomum: entrei na área com o desafio de aprender a programar do zero. Sou movido pela lógica e pela resolução de problemas, e meus projetos são a prova da minha resiliência.
-</p>
 
 - **Microsserviços com Java (Em Andamento):** ⏳ Atualmente, estou construindo uma solução com **Spring Boot** e **MongoDB**, consolidando conhecimentos de **microsserviços** e **Docker**.
 - **Aplicação Web em PHP:** 👨‍💻 Projeto que me fez dominar a arquitetura **MVC** e aplicar práticas de **segurança** (hashing de senhas) e **modelagem de dados** (functions/triggers).
 - **Sistema de Gerenciamento para Abrigo de Animais:** 🐶 Projeto em **JavaScript** com **Node.js** que aplicou **testes unitários com Jest** para garantir a qualidade do código.
 - **Sistema Bancário:** 🏦 Projeto que solidificou a minha base em **Programação Orientada a Objetos (POO)**.
+
+</p>
+
 ---
 
 ### 🌱 Onde Estou na Minha Jornada

@@ -10,17 +10,7 @@
 
 <br>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MateusLima909/MateusLima909/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MateusLima909/MateusLima909/output/pacman-contribution-graph.svg">
-    <img alt="Generated Pacman" src="https://raw.githubusercontent.com/MateusLima909/MateusLima909/output/pacman-contribution-graph-dark.svg" width="100%"/>
-  </picture>
-</div>
-
-<br>
-
-<table border="0" width="100%">
+<table width="100%">
   <tr>
     <td width="60%" valign="top">
       <h3>⚡ Deixa eu me apresentar</h3>
@@ -50,9 +40,9 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
           <img width="12" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="60" alt="spring logo"  />
-          <img width="12" />
+          <img width="1" />
           <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="60" alt="apachemaven logo"  />
-          <img width="12" />
+          <img width="1" />
           <img src="https://cdn.simpleicons.org/postman/FF6C37" height="60" alt="postman logo"  />
           <img width="12" />
           <img src="https://cdn.simpleicons.org/gradle/02303A" height="60" alt="gradle logo"  />
@@ -68,14 +58,25 @@
 
 <br>
 
+<div align="center" border="10">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MateusLima909/MateusLima909/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MateusLima909/MateusLima909/output/pacman-contribution-graph.svg">
+    <img alt="Generated Pacman" src="https://raw.githubusercontent.com/MateusLima909/MateusLima909/output/pacman-contribution-graph-dark.svg" width="100%"/>
+  </picture>
+</div>
+
+<br>
+
 <div align="center">
   <h3>📊 Minha Produtividade</h3>
+  <br>
   <div style="display: flex; justify-content: center;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusLima909&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MateusLima909&theme=tokyonight&hide_border=true&background=0d1117" />
   </div>
 
-  <br><br>
+  <br>
 
   <h3>🏆 Projetos em Destaque</h3>
   <table align="center">
@@ -115,5 +116,5 @@
 </div>
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
 </div>

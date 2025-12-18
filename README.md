@@ -3,8 +3,8 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&reversal=false&text=Mateus%20Lima&fontSize=68&fontAlign=50&fontAlignY=35&stroke=-&animation=fadeIn&desc=Backend%20Java%20Developer&descSize=20&descAlign=50&textBg=false&theme=tokyonight"  />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);Construindo+Microsservi%C3%A7os+em+Java;Focado+em+Docker+%26+Dados;Transformando+Caf%C3%A9+em+C%C3%B3digo+%E2%98%95" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&separator=|&lines=System.out.println(%22Hello+World!%22);|Construindo+Microsservi%C3%A7os+em+Java|Focado+em+Docker+%26+Dados|Transformando+Caf%C3%A9+em+C%C3%B3digo+%E2%98%95" alt="Typing SVG" />
+</a>
 
 </div>
 
@@ -106,14 +106,13 @@
 
 <br>
 
-<div align="center">
   <a href="https://www.linkedin.com/in/mateuslima-santos">
-    <img src="https://img.shields.io/badge/LinkedIn-5a189a?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-7b2cbf?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mateuslimasantos909@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-7b2cbf?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
+
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />

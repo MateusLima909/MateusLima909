@@ -1,101 +1,67 @@
-<h3 >Desenvolvedor Back-end em Formação | Onde a lógica encontra a inovação.</h3>
+<div align="center">
 
----
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,00c6ff,0072ff&height=300&section=header&text=Mateus%20Lima&fontSize=90&animation=fadeIn&fontAlign=50&desc=Backend%20Java%20Developer&descAlign=50&descSize=25&fontAlignY=35" width="100%"/>
 
-### 🚀 Minha Jornada em Código
-
-<p align="left">
-  Minha jornada em tecnologia começou de um jeito incomum: entrei na área com o desafio de aprender a programar do zero. Transformei a minha curiosidade em uma mentalidade de engenheiro de software, onde cada desafio se tornou uma oportunidade de crescimento. Sou movido pela lógica e pela resolução de problemas, uma paixão que cultivo desde pequeno com quebra-cabeças e cubos mágicos.
-</p>
-
-<p align="left">
-  Atualmente, sou estudante de Sistemas de Informação e estou em constante evolução, focado em criar soluções que façam a diferença.
-</p>
-
----
-
-### 👥Colaboração e Estatísticas no GitHub
-
-<p align="center">
-  <img src="https://activity-graph.vercel.app/graph?username=MateusLima909&theme=react-dark&hide_border=true" alt="Gráfico de Atividade de Contribuição" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MateusLima909&theme=dracula&card_width=430&card_height=10" alt="Estatísticas de Streak" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=33CCFF&center=true&vCenter=true&width=600&lines=Construindo+Arquiteturas+Escal%C3%A1veis;Especialista+em+Java+%26+Spring+Boot;Focado+em+Microsservi%C3%A7os+%26+Dados;Transformando+Caf%C3%A9+em+C%C3%B3digo+Limpo+%E2%98%95" alt="Typing SVG" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusLima909&layout=compact&langs_count=5&theme=dracula&card_width=430&card_height=100&line_height=40" alt="Top Linguagens" />
+
+  <br><br>
+
+  <br>
+  <p align="center" width="60%">
+    Sou um desenvolvedor apaixonado por entender o que acontece por <b>"debaixo do capô"</b>. Atualmente estagiário no Ministério das Comunicações, onde garanto a integridade de dados críticos. No meu tempo livre, fujo da mágica dos frameworks para dominar os fundamentos (JDBC, Estrutura de Dados) e construo sistemas distribuídos complexos.
+  </p>
+
+  <br>
+
+  <h3>🚀 Tech Stack & Ferramentas</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,docker,mysql,postgres,git,github,vscode,idea,linux,postman&perline=7&theme=dark" />
   </a>
-</p>
 
----
+  <br><br>
 
-### 🛠️ Minhas Habilidades
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusLima909&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  </div>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MateusLima909&theme=tokyonight&hide_border=true&background=0d1117" />
 
-<p align="left">
-  Minha experiência abrange diferentes camadas do desenvolvimento, do back-end à infraestrutura.
-</p>
+  <br><br>
 
-<p align="left">
-  <b>Linguagens:</b><br>
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PHP-7A86B8?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
+  <h3>🏆 Projetos em Destaque</h3>
+  <table align="center">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/MateusLima909/board-task-manager">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MateusLima909&repo=board-task-manager&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/MateusLima909/desafio-microsservicos">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MateusLima909&repo=desafio-microsservicos&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>TaskMaster Pro (Kanban)</b><br>
+        Java Puro (JDBC) • Sem ORM • Docker
+      </td>
+      <td align="center">
+        <b>Catálogo de Microsserviços</b><br>
+        Spring Cloud • Gateway • Eureka
+      </td>
+    </tr>
+  </table>
 
-<p align="left">
-  <b>Frameworks & Back-end:</b><br>
-  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-</p>
+  <br><br>
 
-<p align="left">
-  <b>Bancos de Dados:</b><br>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
-
-<p align="left">
-  <b>Ferramentas & DevOps:</b><br>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-</p>
-
----
-
-### 🎯 Projetos que Contam a Minha História
-
-<p align="left">
-
-- **Microsserviços com Java (Em Andamento):** ⏳ Atualmente, estou construindo uma solução com **Spring Boot** e **MongoDB**, consolidando conhecimentos de **microsserviços** e **Docker**.
-- **Aplicação Web em PHP:** 👨‍💻 Projeto que me fez dominar a arquitetura **MVC** e aplicar práticas de **segurança** (hashing de senhas) e **modelagem de dados** (functions/triggers).
-- **Sistema de Gerenciamento para Abrigo de Animais:** 🐶 Projeto em **JavaScript** com **Node.js** que aplicou **testes unitários com Jest** para garantir a qualidade do código.
-- **Sistema Bancário:** 🏦 Projeto que solidificou a minha base em **Programação Orientada a Objetos (POO)**.
-
-</p>
-
----
-
-### 🌱 Onde Estou na Minha Jornada
-
-<p align="left">
-  Acredito que a melhor forma de aprender é colocando a mão na massa. Minha experiência profissional em **análise de dados** no Setor Público me deu um olhar único para problemas e processos. Estou em busca de um ambiente que valorize a curiosidade e me desafie a crescer cada vez mais.
-</p>
-
-<br>
-
-### 📫 Conecte-se Comigo
-
-<p>
   <a href="https://www.linkedin.com/in/mateuslima-santos">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mateuslimasantos909@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+
+</div>

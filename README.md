@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="imagemDeFundo.png" width="100%" style="border-radius: 15px; box-shadow: 0px 0px 20px #000000;"/>
+  <img src="imagemDeFundo.png" width="800px" style="border-radius: 15px; box-shadow: 0px 0px 20px #000000;"/>
   
   <br><br>
 

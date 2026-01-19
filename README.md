@@ -1,11 +1,12 @@
 
 <div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&reversal=false&text=Mateus%20Lima&fontSize=68&fontAlign=50&fontAlignY=35&stroke=-&animation=fadeIn&desc=Backend%20Java%20Developer&descSize=20&descAlign=50&textBg=false&theme=tokyonight"  />
+  <img src="imagemDeFundo.png" width="100%" style="border-radius: 15px; box-shadow: 0px 0px 20px #000000;"/>
+  
+  <br><br>
 
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&separator=|&lines=System.out.println(%22Hello+World!%22);|Construindo+Microsservi%C3%A7os+em+Java|Focado+em+Docker+%26+Dados|Transformando+Caf%C3%A9+em+C%C3%B3digo+%E2%98%95" alt="Typing SVG" />
-</a>
-
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&separator=|&lines=System.out.println(%22Hello+World!%22);|Construindo+Microsservi%C3%A7os+em+Java|Focado+em+Java+%26+Dados|Transformando+Caf%C3%A9+em+C%C3%B3digo+%E2%98%95" alt="Typing SVG" />
+  </a>
 </div>
 
 <br>

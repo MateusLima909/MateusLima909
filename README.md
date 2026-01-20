@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="imagemDeFundo.png" width="850px" style="border-radius: 20px; box-shadow: 0px 0px 40px #050a30;"/>
+  <img src="imagemDeFundo.png" width="850px" heigth="500px" style="border-radius: 20px; box-shadow: 0px 0px 40px #050a30;"/>
   
   <br>
 
@@ -83,7 +83,7 @@
 </div>
 
 <div style="display: flex; align-items: flex-start;">
-  <img align="left" width="470px" height="350px" src="ondaDoMar.png" alt="Pixel Art Wave" style="margin-right: 20px; "border-radius: 20px; box-shadow: 0px 0px 50px 000080;" />
+  <img align="left" width="470px" height="310px" src="ondaDoMar.png" alt="Pixel Art Wave" style="margin-right: 20px; "border-radius: 20px; box-shadow: 0px 0px 50px 000080;" />
   
   <div>
     <h3>🚀 O que estou fazendo agora?</h3>

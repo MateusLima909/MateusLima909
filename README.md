@@ -91,7 +91,7 @@
       <br>🏛 <b>Atualmente:</b> Otimizando processos e analisando dados no Ministério das Comunicações. <br> <br>
       ☕ <b>Foco Técnico:</b> Aprofundando em Java (Spring Boot) e Arquitetura de Software.</li> <br> <br>
       🤖 <b>Explorando:</b> Inteligência Artificial e NLP com Python (Veja meu projeto de <a href="https://github.com/MateusLima909/desafio-autou">Classificador de Emails com IA</a>).<br> <br>
-      🥁 <b>Hobby:</b> Baterista e guitarrista nas horas vagas (o ritmo ajuda na lógica!).</li> <br>
+      🥁 <b>Hobby:</b> Baterista e guitarrista nas horas vagas (Eu tento🥲).</li> <br>
     </ul>
   </div>
   <br clear="left"/>

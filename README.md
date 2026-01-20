@@ -1,37 +1,41 @@
 
 <div align="center">
-  <img src="imagemDeFundo.png" width="80%" style="border-radius: 20px; box-shadow: 0px 0px 40px #050a30;"/>
+  <img src="imagemDeFundo.png" width="1000px" style="border-radius: 20px; box-shadow: 0px 0px 40px #050a30;"/>
   
-  <br><br>
+  <br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&separator=|&lines=System.out.println(%22Hello+World!%22);|Construindo+Microsservi%C3%A7os+em+Java|Focado+em+Java+%26+Dados|Transformando+Caf%C3%A9+em+C%C3%B3digo+%E2%98%95" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=f0f8ff&center=true&vCenter=true&width=600&separator=|&lines=System.out.println(%22Hello+World!%22);|Construindo+Microsservi%C3%A7os+em+Java|Focado+em+Java+%26+Dados|Transformando+Caf%C3%A9+em+C%C3%B3digo+%E2%98%95" alt="Typing SVG" />
   </a>
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=4D96FF&height=2&section=footer" width="100%"/>
 </div>
 
 <br>
 
-<table width="100%">
+<table width="100%" cellpadding="10"
+       style="border:none; border-collapse:collapse;">
   <tr>
-    <td width="60%" valign="top">
+    <td width="60%" valign="top"
+        style="padding:12px; border:none;">
       <h3>⚡ Deixa eu me apresentar</h3>
       <p align="left">
-        Sou um desenvolvedor apaixonado por entender o que acontece <b>"debaixo do capô"</b>. Minha jornada começou com a curiosidade de desmontar coisas para ver como funcionavam, e hoje aplico isso na engenharia de software.
+        Sou estudante de <b>Sistemas de Informação</b> (5º semestre) e
+        Estagiário no <b>Ministério das Comunicações</b>. Meu foco é o
+        desenvolvimento Backend, unindo a robustez do Java com a
+        inteligência de dados.
         <br><br>
-        Atualmente sou <b>Estagiário no Ministério das Comunicações</b>, onde garanto a integridade de dados críticos. 
-        <br><br>
-        🔭 <b>Foco Atual:</b> Arquiteturas Distribuídas, Spring Cloud e Performance.<br>
-        🌱 <b>Estudando:</b> Design Patterns e Java Internals.<br>
-        💬 <b>Filosofia:</b> "Dominar os fundamentos antes da mágica dos frameworks."
+        Minha jornada pessoal me ensinou que <b>resiliência e disciplina</b>
+        são tão importantes quanto um código limpo. Após superar um
+        transplante de medula, trago para a tecnologia a mesma paciência
+        estratégica que tive na vida: depurar problemas complexos até
+        encontrar a solução.
+        <br>
       </p>
     </td>
-    <td width="40%" valign="top" align="center">
+    <td width="40%" valign="top" align="center" style="border:none;">
       <h3>🛠️ Arsenal Técnico</h3>
       <div align="center">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60" alt="java logo"  />
@@ -63,11 +67,6 @@
   </tr>
 </table>
 
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
 
 <br>
 
@@ -79,13 +78,31 @@
   </picture>
 </div>
 
+<table width="100%" align="right">
+  <tr>
+    <td width="40%" valign="top" align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="80" />
+      <br><br>
+      <b>Spring Boot & Spring Cloud</b>
+    </td>
+    <td width="60%" valign="top">
+      <h3>🚀 O que estou fazendo agora?</h3>
+      <p align="left">
+        - 🏛 <b>Atualmente:</b> Otimizando processos e analisando dados no Ministério das Comunicações. <br>
+        - ☕ <b>Foco Técnico:</b> Aprofundando em Java (Spring Boot) e Arquitetura de Software. <br>
+        - 🤖 <b>Explorando:</b> Inteligência Artificial e NLP com Python (Veja meu projeto de [Classificador de Emails com IA](https://github.com/MateusLima909/email-classifier)!). <br>
+        - 🥁 <b>Hobby:</b> Baterista e guitarrista nas horas vagas (o ritmo ajuda na lógica!). <br><br>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
 <br>
 
-<<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=4D96FF&height=2&section=footer" width="100%"/>
 </div>
-
-<br>
 
 <div align="center">
   <h3>📊 Minha Produtividade</h3>
@@ -96,12 +113,11 @@
   </div>
 
   <br>
+  <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=4D96FF&height=2&section=footer" width="100%"/>
 </div>
-  
-  <br>
 
   <h3>🏆 Projetos em Destaque</h3>
   <table align="center">

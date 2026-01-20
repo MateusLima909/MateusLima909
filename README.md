@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="imagemDeFundo.png" width="900px" style="border-radius: 20px; box-shadow: 0px 0px 40px #050a30;"/>
+  <img src="imagemDeFundo.png" width="850px" style="border-radius: 20px; box-shadow: 0px 0px 40px #050a30;"/>
   
   <br>
 
@@ -78,26 +78,24 @@
   </picture>
 </div>
 
-<table width="100%" align="right">
-  <tr>
-    <td width="40%" valign="top" align="center">
-      <img src="ondaDoMar.png"/>
-    </td>
-    <td width="60%" valign="top">
-      <h3>🚀 O que estou fazendo agora?</h3>
-      <p align="left">
-        - 🏛 <b>Atualmente:</b> Otimizando processos e analisando dados no Ministério das Comunicações. <br>
-        - ☕ <b>Foco Técnico:</b> Aprofundando em Java (Spring Boot) e Arquitetura de Software. <br>
-        - 🤖 <b>Explorando:</b> Inteligência Artificial e NLP com Python (Veja meu projeto de
-  <a href="https://github.com/MateusLima909/email-classifier">Classificador de Emails com IA</a>). <br>
-        - 🥁 <b>Hobby:</b> Baterista e guitarrista nas horas vagas (o ritmo ajuda na lógica!). <br><br>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=4D96FF&height=2&section=footer" width="100%"/>
+</div>
 
-
-<br>
+<div style="display: flex; align-items: flex-start;">
+  <img align="left" width="470px" height="380px" src="ondaDoMar.png" alt="Pixel Art Wave" style="margin-right: 20px; "border-radius: 20px; box-shadow: 0px 0px 50px 000080;" />
+  
+  <div>
+    <h3>🚀 O que estou fazendo agora?</h3>
+    <ul>
+      <br>🏛 <b>Atualmente:</b> Otimizando processos e analisando dados no Ministério das Comunicações. <br> <br>
+      ☕ <b>Foco Técnico:</b> Aprofundando em Java (Spring Boot) e Arquitetura de Software.</li> <br> <br>
+      🤖 <b>Explorando:</b> Inteligência Artificial e NLP com Python (Veja meu projeto de <a href="https://github.com/MateusLima909/desafio-autou">Classificador de Emails com IA</a>).<br> <br>
+      🥁 <b>Hobby:</b> Baterista e guitarrista nas horas vagas (o ritmo ajuda na lógica!).</li> <br>
+    </ul>
+  </div>
+  <br clear="left"/>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=4D96FF&height=2&section=footer" width="100%"/>

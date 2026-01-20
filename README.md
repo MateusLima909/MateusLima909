@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="imagemDeFundo.png" width="1000px" style="border-radius: 20px; box-shadow: 0px 0px 40px #050a30;"/>
+  <img src="imagemDeFundo.png" width="900px" style="border-radius: 20px; box-shadow: 0px 0px 40px #050a30;"/>
   
   <br>
 
@@ -81,16 +81,15 @@
 <table width="100%" align="right">
   <tr>
     <td width="40%" valign="top" align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="80" />
-      <br><br>
-      <b>Spring Boot & Spring Cloud</b>
+      <img src="ondaDoMar.png"/>
     </td>
     <td width="60%" valign="top">
       <h3>🚀 O que estou fazendo agora?</h3>
       <p align="left">
         - 🏛 <b>Atualmente:</b> Otimizando processos e analisando dados no Ministério das Comunicações. <br>
         - ☕ <b>Foco Técnico:</b> Aprofundando em Java (Spring Boot) e Arquitetura de Software. <br>
-        - 🤖 <b>Explorando:</b> Inteligência Artificial e NLP com Python (Veja meu projeto de [Classificador de Emails com IA](https://github.com/MateusLima909/email-classifier)!). <br>
+        - 🤖 <b>Explorando:</b> Inteligência Artificial e NLP com Python (Veja meu projeto de
+  <a href="https://github.com/MateusLima909/email-classifier">Classificador de Emails com IA</a>). <br>
         - 🥁 <b>Hobby:</b> Baterista e guitarrista nas horas vagas (o ritmo ajuda na lógica!). <br><br>
       </p>
     </td>
@@ -148,10 +147,10 @@
 <br>
 
   <a href="https://www.linkedin.com/in/mateuslima-santos">
-    <img src="https://img.shields.io/badge/LinkedIn-7b2cbf?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mateuslimasantos909@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-7b2cbf?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
 

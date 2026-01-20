@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="imagemDeFundo.png" width="800px" style="border-radius: 15px; box-shadow: 0px 0px 20px #000000;"/>
+  <img src="imagemDeFundo.png" width="80%" style="border-radius: 20px; box-shadow: 0px 0px 40px #050a30;"/>
   
   <br><br>
 
@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa70e3.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
 <br>
@@ -65,12 +65,24 @@
 
 <br>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<br>
+
 <div align="center" border="10">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MateusLima909/MateusLima909/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MateusLima909/MateusLima909/output/pacman-contribution-graph.svg">
     <img alt="Generated Pacman" src="https://raw.githubusercontent.com/MateusLima909/MateusLima909/output/pacman-contribution-graph-dark.svg" width="100%"/>
   </picture>
+</div>
+
+<br>
+
+<<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
 <br>
@@ -83,6 +95,12 @@
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MateusLima909&theme=tokyonight&hide_border=true&background=0d1117" />
   </div>
 
+  <br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+  
   <br>
 
   <h3>🏆 Projetos em Destaque</h3>

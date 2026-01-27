@@ -82,20 +82,31 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=4D96FF&height=2&section=footer" width="100%"/>
 </div>
 
-<div style="display: flex; align-items: flex-start;">
-  <img align="left" width="340px" height="310px" src="ondaDoMar.png" alt="Pixel Art Wave" style="margin-right: 20px; border-radius: 20px; box-shadow: 0px 0px 50px 000080;" />
-  
-  <div>
-    <h3>🚀 O que estou fazendo agora?</h3>
-    <ul>
-      <br>🏛 <b>Atualmente:</b> Otimizando processos e analisando dados no Ministério das Comunicações. <br> <br>
-      ☕ <b>Foco Técnico:</b> Aprofundando em Java (Spring Boot) e Arquitetura de Software.</li> <br> <br>
-      🤖 <b>Explorando:</b> Inteligência Artificial e NLP com Python (Veja meu projeto de <a href="https://github.com/MateusLima909/desafio-autou">Classificador de Emails com IA</a>).<br> <br>
-      🥁 <b>Hobby:</b> Baterista e guitarrista nas horas vagas (Eu tento).</li> <br>
-    </ul>
-  </div>
-  <br clear="left"/>
-</div>
+<br>
+
+<table width="100%" cellpadding="10" style="border-collapse:collapse; border:0;"">
+  <tr style="border:0;">
+    <td width="40%" valign="middle" style="border:0; background-color:#0d1117;">
+      <img src="ondaDoMar.png" width="360px" height="800px" style=" border:0; background-color:#0d1117;" />
+    </td>
+    <td width="70%" style="border:none;">
+      <h3>🚀 O que estou fazendo agora?</h3>
+      <br>
+      <p>
+        🏛 <b>Atualmente:</b> Otimizando processos e analisando dados no Ministério das Comunicações.
+        <br><br>
+        ☕ <b>Foco Técnico:</b> Aprofundando em Java (Spring Boot) e Arquitetura de Software.
+        <br><br>
+        🤖 <b>Explorando:</b> Inteligência Artificial e NLP com Python 
+        (Veja meu projeto de 
+        <a href="https://github.com/MateusLima909/email-classifier">Classificador de Emails com IA</a>).
+        <br><br>
+        🥁 <b>Hobby:</b> Baterista e guitarrista nas horas vagas (Eu tento).
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 <br>
 

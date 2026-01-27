@@ -103,15 +103,19 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=4D96FF&height=2&section=footer" width="100%"/>
 </div>
 
-<div align="center">
-  <h3>📊 Minha Produtividade</h3>
-  <br>
-  <div style="display: flex; justify-content: center;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusLima909&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MateusLima909&theme=tokyonight&hide_border=true&background=0d1117" />
-  </div>
+<h3 align="center">📊 Minha Produtividade</h3>
 
-  <br>
+<table align="center">
+  <tr>
+    <td>
+      <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusLima909&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+    </td>
+    <td>
+      <img height="300em" src="https://streak-stats.demolab.com?user=MateusLima909&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+    </td>
+  </tr>
+</table>
+
   <br>
 
 <div align="center">

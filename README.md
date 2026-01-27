@@ -108,10 +108,10 @@
 <table align="center">
   <tr>
     <td>
-      <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusLima909&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusLima909&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
     </td>
     <td>
-      <img height="300em" src="https://streak-stats.demolab.com?user=MateusLima909&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+      <img height="200em" src="https://streak-stats.demolab.com?user=MateusLima909&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
     </td>
   </tr>
 </table>
@@ -120,14 +120,14 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=4D96FF&height=2&section=footer" width="100%"/>
-</div>
+
 
   <h3>🏆 Projetos em Destaque</h3>
   <table align="center">
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/MateusLima909/board-task-manager">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MateusLima909&repo=board-task-manager&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+        <a href="https://github.com/MateusLima909/email-classifier">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MateusLima909&repo=email-classifier&theme=tokyonight&hide_border=true&bg_color=0d1117" />
         </a>
       </td>
       <td width="50%" align="center">
@@ -138,8 +138,8 @@
     </tr>
     <tr>
       <td align="center">
-        <b>TaskMaster Pro (Kanban)</b><br>
-        Java Puro (JDBC) • Sem ORM • Docker
+        <b>Classificador de Emails com IA</b><br>
+        Python • Gemini API • NLP
       </td>
       <td align="center">
         <b>Catálogo de Microsserviços</b><br>
@@ -160,4 +160,5 @@
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
+</div>
 </div>

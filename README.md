@@ -119,10 +119,10 @@
 <table align="center">
   <tr>
     <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusLima909&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusLima909&layout=compact&theme=tokyonight&hide_border=true"/>
     </td>
     <td>
-      <img height="200em" src="https://streak-stats.demolab.com?user=MateusLima909&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+      <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=MateusLima909&theme=tokyonight&hide_border=true"/>
     </td>
   </tr>
 </table>

@@ -4,8 +4,8 @@
   
   <br>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=f0f8ff&center=true&vCenter=true&width=600&separator=|&lines=System.out.println(%22Hello+World!%22);|Construindo+Microsservi%C3%A7os+em+Java|Focado+em+Java+%26+Dados|Transformando+Caf%C3%A9+em+C%C3%B3digo+%E2%98%95" alt="Typing SVG" />
+ <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=18&pause=1000&color=f0f8ff&center=true&vCenter=true&width=700&height=60&separator=|&lines=System.out.println(%22Hello+World!%22);|Construindo+Microsservi%C3%A7os+em+Java|Focado+em+Java+%26+Dados|Transformando+Cafe+em+Codigo" alt="Typing SVG" />
   </a>
 </div>
 
@@ -22,7 +22,7 @@
         style="padding:12px; border:none;">
       <h3>⚡ Deixa eu me apresentar</h3>
       <p align="left">
-        Sou estudante de <b>Sistemas de Informação</b> (5º semestre) e
+        Sou estudante de <b>Sistemas de Informação</b> (6º semestre) e
         Estagiário no <b>Ministério das Comunicações</b>. Meu foco é o
         desenvolvimento Backend, unindo a robustez do Java com a
         inteligência de dados.
@@ -35,33 +35,12 @@
         <br>
       </p>
     </td>
-    <td width="40%" valign="top" align="center" style="border:none;">
+    <td width="50%" valign="top" align="center" style="border:none;">
       <h3>🛠️ Arsenal Técnico</h3>
       <div align="center">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60" alt="java logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" alt="mysql logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo"  />
-          <img width="12" />          
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="60" alt="spring logo"  />
-          <img width="1" />
-          <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="60" alt="apachemaven logo"  />
-          <img width="1" />
-          <img src="https://cdn.simpleicons.org/postman/FF6C37" height="60" alt="postman logo"  />
-          <img width="12" />
-          <img src="https://cdn.simpleicons.org/gradle/02303A" height="60" alt="gradle logo"  />
-          <img width="12" />
-          <img src="https://cdn.simpleicons.org/html5/E34F26" height="60" alt="html5 logo"  />
-          <img width="12" />
-          <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-        </a>
+        <img src="https://skillicons.dev/icons?i=java,mysql,html,css" height="100"/>
+        <img src="https://skillicons.dev/icons?i=spring,maven,gradle,vscode" height="100"/> 
+        <img src="https://skillicons.dev/icons?i=idea,git,docker,postman" height="100"/>
       </div>
     </td>
   </tr>
@@ -93,7 +72,7 @@
       <h3>🚀 O que estou fazendo agora?</h3>
       <br>
       <p>
-        🏛 <b>Atualmente:</b> Otimizando processos e analisando dados no Ministério das Comunicações.
+        🏛 <b>Atualmente:</b> Otimizando processos e analisando dados no <b>Ministério das Comunicações.<\b>
         <br><br>
         ☕ <b>Foco Técnico:</b> Aprofundando em Java (Spring Boot) e Arquitetura de Software.
         <br><br>
@@ -160,14 +139,12 @@
   </table>
 
 <br>
-
-  <a href="https://www.linkedin.com/in/mateuslima-santos">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mateuslimasantos909@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
+<a href="https://www.linkedin.com/in/mateuslima-santos"> 
+  <img src="https://img.shields.io/badge/linkedin-4D96FF?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+</a> 
+<a href="mailto:mateuslimasantos909@gmail.com"> 
+  <img src="https://img.shields.io/badge/Gmail-4D96FF?style=for-the-badge&logo=gmail&logoColor=white" /> 
+</a>
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />

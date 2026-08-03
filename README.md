@@ -143,7 +143,7 @@
 <a href="https://www.linkedin.com/in/mateuslima-santos"> 
   <img src="https://img.shields.io/badge/linkedin-4D96FF?style=for-the-badge&logo=linkedin&logoColor=white" /> 
 </a> 
-<a href="mailto:mateuslimasantos909@gmail.com"> 
+<a href="mateuslimasantos909@gmail.com"> 
   <img src="https://img.shields.io/badge/Gmail-4D96FF?style=for-the-badge&logo=gmail&logoColor=white" /> 
 </a>
 

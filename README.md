@@ -33,6 +33,7 @@
         estratégica que tive na vida: depurar problemas complexos até
         encontrar a solução.
         <br>
+        <br>
       </p>
     </td>
     <td width="50%" valign="top" align="center" style="border:none;">

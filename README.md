@@ -73,7 +73,7 @@
       <h3>🚀 O que estou fazendo agora?</h3>
       <br>
       <p>
-        🏛 <b>Atualmente:</b> Otimizando processos e analisando dados no <b>Ministério das Comunicações.<\b>
+        🏛 <b>Atualmente:</b> Otimizando processos e analisando dados no <b>Ministério das Comunicações.</b>
         <br><br>
         ☕ <b>Foco Técnico:</b> Aprofundando em Java (Spring Boot) e Arquitetura de Software.
         <br><br>

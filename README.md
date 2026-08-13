@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="imagemDeFundo.png" width="1000px" height="370px" style="border-radius: 20px; box-shadow: 0px 0px 40px #050a30;"/>
+  <img src="assets/imagemDeFundo.png" width="1000px" height="370px" style="border-radius: 20px; box-shadow: 0px 0px 40px #050a30;"/>
   
   <br>
 
@@ -67,7 +67,7 @@
 <table width="100%" cellpadding="10" style="border-collapse:collapse; border:0;"">
   <tr style="border:0;">
     <td width="40%" valign="middle" style="border:0; background-color:#0d1117;">
-      <img src="ondaDoMar.png" width="360px" height="800px" style=" border:0; background-color:#0d1117;" />
+      <img src="assets/ondaDoMar.png" width="360px" height="800px" style=" border:0; background-color:#0d1117;" />
     </td>
     <td width="70%" style="border:none;">
       <h3>🚀 O que estou fazendo agora?</h3>
@@ -140,7 +140,7 @@
   <a href="mateuslimasantos909@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-4D96FF?style=for-the-badge&logo=gmail&logoColor=white" /> 
   </a>
-  
+
   <div>
     <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
   </div>

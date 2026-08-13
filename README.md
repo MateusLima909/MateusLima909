@@ -69,7 +69,7 @@
 <table width="100%" cellpadding="10" style="border-collapse:collapse; border:0;">
   <tr style="border:0;">
     <td width="40%" valign="middle" style="border:0; background-color:#0d1117;">
-      <img src="assets/ondaDoMar.png" width="360px" height="800px"
+      <img src="assets/ondaDoMar.png" width="100%" height="100%"
            style="border:0; background-color:#0d1117;" />
     </td>
     <td width="70%" style="border:none;">

@@ -99,10 +99,20 @@
 <table align="center">
   <tr>
     <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusLima909&layout=compact&theme=tokyonight&hide_border=true"/>
+      <p>
+        <picture>
+          <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=MateusLima909&theme=neon&mode=light" />
+          <img height="250px" src="https://www.gitskins.com/api/section/stack?username=MateusLima909&theme=neon" alt="MateusLima909 stack section" />
+        </picture>
+      </p>
     </td>
     <td>
-      <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=MateusLima909&theme=tokyonight&hide_border=true"/>
+      <p >
+        <picture>
+          <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=MateusLima909&theme=neon&mode=light" />
+          <img height="250px" src="https://www.gitskins.com/api/section/stats?username=MateusLima909&theme=neon" alt="MateusLima909 stats section" />
+        </picture>
+      </p>
     </td>
   </tr>
 </table>
@@ -115,39 +125,23 @@
 
   <h3>🏆 Projetos em Destaque</h3>
   <table align="center">
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/MateusLima909/email-classifier">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MateusLima909&repo=email-classifier&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/MateusLima909/desafio-microsservicos">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MateusLima909&repo=desafio-microsservicos&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <b>Classificador de Emails com IA</b><br>
-        Python • Gemini API • NLP
-      </td>
-      <td align="center">
-        <b>Catálogo de Microsserviços</b><br>
-        Spring Cloud • Gateway • Eureka
-      </td>
-    </tr>
+    <p align="center">
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=MateusLima909&theme=neon&mode=light" />
+        <img src="https://www.gitskins.com/api/section/projects?username=MateusLima909&theme=neon" alt="MateusLima909 projects section" />
+      </picture>
+    </p>
   </table>
 
-<br>
-<a href="https://www.linkedin.com/in/mateuslima-santos"> 
-  <img src="https://img.shields.io/badge/linkedin-4D96FF?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-</a> 
-<a href="mateuslimasantos909@gmail.com"> 
-  <img src="https://img.shields.io/badge/Gmail-4D96FF?style=for-the-badge&logo=gmail&logoColor=white" /> 
-</a>
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
-</div>
+  <br>
+  <a href="https://www.linkedin.com/in/mateuslima-santos"> 
+    <img src="https://img.shields.io/badge/linkedin-4D96FF?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  </a> 
+  <a href="mateuslimasantos909@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-4D96FF?style=for-the-badge&logo=gmail&logoColor=white" /> 
+  </a>
+  
+  <div>
+    <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
+  </div>
 </div>

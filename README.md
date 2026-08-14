@@ -77,7 +77,7 @@
       <br>
       <p>
         🏛 <b>Atualmente:</b> Estagiário no <b>Ministério das Comunicações</b>,
-        atuando com processos, organização e restrição de dados. (Tá seguro)
+        atuando com processos, organização e restrição de dados.
         <br><br>
         ☕ <b>Foco Técnico:</b> Aprofundando meus conhecimentos em
         <b>Java, Spring Boot, SQL e Arquitetura de Software</b>.
@@ -90,7 +90,7 @@
         de LLMs em projetos práticos.
         <br><br>
         🥁 <b>Hobby:</b> Baterista e guitarrista nas horas vagas
-        (somente o básico).
+        (Tentando pelo menos).
       </p>
     </td>
   </tr>

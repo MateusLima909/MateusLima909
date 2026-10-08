@@ -4,7 +4,7 @@
   <br>
 
  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=18&pause=1000&color=f0f8ff&center=true&vCenter=true&width=700&height=60&separator=|&lines=System.out.println(%22Hello+World!%22);|Construindo+soluções+com+Java|Explorando+Dados+%26+Automação|Desenvolvendo+com+Spring+Boot|Transformando+Café+em+Código!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=18&pause=1000&color=f0f8ff&center=true&vCenter=true&width=700&height=60&separator=|&lines=System.out.println(%22Hello+World!%22);|Construindo+soluções+com+Java|Explorando+Dados+%26+Automação|ETL+e+Desenvolvimento+em+BI|Transformando+Café+em+Código!" alt="Typing SVG" />
 </a>
 </div>
 
@@ -76,7 +76,7 @@
       <h3>🚀 O que estou fazendo agora?</h3>
       <br>
       <p>
-        🏛 <b>Atualmente:</b> Estagiário no <b>HU Brasil</b>,
+        🏥 <b>Atualmente:</b> Estagiário no <b>HU Brasil</b>,
         atuando no desenvolvimento e modernização de soluções em BI, 
         engenharia e modelagem de dados.
         <br><br>

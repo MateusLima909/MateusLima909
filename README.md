@@ -21,7 +21,7 @@
     <h3>⚡ Deixa eu me apresentar</h3>
     <p align="left">
       Sou estudante de <b>Sistemas de Informação</b> e atualmente atuo como
-      estagiário no <b>Ministério das Comunicações</b>.
+      estagiário no <b>HU Brasil</b>.
       Tenho interesse principalmente em <b>desenvolvimento Backend,
       dados e automação</b>, utilizando Java, Spring Boot, Python e SQL
       para transformar problemas reais em soluções práticas.
@@ -76,8 +76,9 @@
       <h3>🚀 O que estou fazendo agora?</h3>
       <br>
       <p>
-        🏛 <b>Atualmente:</b> Estagiário no <b>Ministério das Comunicações</b>,
-        atuando com processos, organização e restrição de dados.
+        🏛 <b>Atualmente:</b> Estagiário no <b>HU Brasil</b>,
+        atuando no desenvolvimento e modernização de soluções em BI, 
+        engenharia e modelagem de dados.
         <br><br>
         ☕ <b>Foco Técnico:</b> Aprofundando meus conhecimentos em
         <b>Java, Spring Boot, SQL e Arquitetura de Software</b>.
